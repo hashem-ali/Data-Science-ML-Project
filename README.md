@@ -8,4 +8,4 @@
 |---|---|
 | **Hashem Bajabaa**  |  [Hashem](github.com/hashem-ali)  
 | **Rayan Alshanba**  |  [Rayan](https://github.com/rayan90-sa)
-| **Ziyad Alanzy**    |  [Ziyad](github.com/Ziyadal3nzy)
+| **Ziyad Alanzy**    |  [Ziyad](github.com/Ziyadal3nzy) 
